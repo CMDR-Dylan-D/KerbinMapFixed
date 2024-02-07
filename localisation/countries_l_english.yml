@@ -1,0 +1,20 @@
+﻿l_english:
+
+ KPG_fascism:0 "Dominion Kelpogart"
+ KPG_fascism_DEF:0 "Dominion Kelpogart"
+ KPG_democratic:0 "First Kelpogartian Republic"
+ KPG_democratic_DEF:0 "the First Kelpogartian Republic"
+ KPG_neutrality:0 "Kelpogart"
+ KPG_neutrality_DEF:0 "Kelpogart"
+ KPG_communism:0 "Kelpogartian Socialist Republic"
+ KPG_communism_DEF:0 "the Kelpogartian Socialist Republic"
+ KPG_fascism_ADJ:0 "Kelpogartian"
+ KPG_democratic_ADJ:0 "Kelpogartian"
+ KPG_neutrality_ADJ:0 "Kelpogartian"
+ KPG_communism_ADJ:0 "Kelpogartian"
+ KPG:0 "Kelpogart"
+ KPG_DEF:0 "Kelpogart"
+ KPG_ADJ:0 "Kelpogartian"
+ KPG_subject:0 "$OVERLORDADJ$ $KPG$"
+ KPG_subject_DEF:0 "$OVERLORDADJ$ $KPG$"
+ 

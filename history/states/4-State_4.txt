@@ -1,0 +1,21 @@
+
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		374 554 1039 1863 2068 2298 3246 3285 3578 4422 4498 4618 5358 5406 5422 5459 13828 13829 
+	}
+	history = {
+		owner = KPG
+		buildings = {
+				infrastructure = 2
+				industrial_complex = 1
+		}
+		add_core_of = KPG
+
+	}
+	
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

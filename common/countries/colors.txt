@@ -1,0 +1,4 @@
+KPG = {
+	color = rgb { 227 174 51 }
+	color_ui  = rgb { 197 144 21 }
+}
