@@ -1,2 +1,4 @@
+# Clean out Default AI Areas
+
 areas = {
 }
